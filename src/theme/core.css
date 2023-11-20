@@ -1,0 +1,10 @@
+@import url('variables.css');
+
+ion-toolbar {
+    --background: #5F5F5F;
+    --color: #FFFFFF;
+}
+
+ion-span {
+    --color: #561233;
+}
